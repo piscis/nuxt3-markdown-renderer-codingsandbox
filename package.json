@@ -1,15 +1,15 @@
 {
   "name": "nuxt-app",
   "private": true,
-  "packageManager": "pnpm@7.1.0",
+  "packageManager": "pnpm@8.6.1",
   "engines": {
-    "pnpm": "7",
-    "node": "16"
+    "pnpm": "8"
   },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
     "start": "nuxt start",
+    "codeingbox": "pnpm install -g pnpm && nuxt start",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
