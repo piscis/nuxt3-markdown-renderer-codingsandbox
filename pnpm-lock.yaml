@@ -17,6 +17,9 @@ devDependencies:
   nuxt:
     specifier: ^3.5.2
     version: 3.5.2(@types/node@18.0.0)
+  vite:
+    specifier: ^4.3.9
+    version: 4.3.9(@types/node@18.0.0)
 
 packages:
 

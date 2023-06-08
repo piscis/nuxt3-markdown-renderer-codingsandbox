@@ -14,6 +14,7 @@
     "@nuxt/content": "^2.6.0",
     "@nuxt/devtools": "latest",
     "@types/node": "^18",
-    "nuxt": "^3.5.2"
+    "nuxt": "^3.5.2",
+    "vite": "^4.3.9"
   }
 }
